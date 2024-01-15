@@ -263,7 +263,7 @@
             "Chris Kincaid, Information Security Specialist.",
           o = "https://chris.kincaid.rocks",
           c = "".concat(o, "/og.png"),
-          d = "@bchiang7",
+          d = "@ckincaid_",
           m = l;
         return (
           t !== l && (m = "".concat(t, " | ").concat(l)),
@@ -396,140 +396,6 @@
       function l() {
         return (0, s.jsxs)("div", {
           children: [
-            (0, s.jsxs)("p", {
-              className: "mb-4",
-              children: [
-                "In 2012, amidst a massive layoff affecting 30,000 individuals, " +
-                "I stood at a crossroads. Working in phone support for a prominent computer manufacturer " +
-                "had equipped me with essential computer knowledge and a deep admiration for the tech industry. " +
-                " ",
-
-              ],
-            }),
-            (0, s.jsxs)("p", {
-              className: "mb-4",
-              children: [
-                "I capitalized on a government retraining program, earning my first degree and subsequently four more. " +
-                "While my initial focus was digital forensics, it evolved into security analysis and software testing. "
-              ],
-            }),
-            (0, s.jsxs)("p", {
-              children: [
-                "Today, I confidently recognize myself as an",
-                " ",
-                (0, s.jsxs)("span", {
-                  className:
-                    "group/korok inline-flex lg:cursor-[url('/images/koroks/Elma.png'),_pointer] lg:font-medium lg:text-slate-200",
-                  children: [
-                    (0, s.jsx)("span", {
-                      className: "sr-only",
-                      children: "Information Security Specialist",
-                    }),
-                    "Information Security Specialist"
-                      .split("")
-                      .map((e, t) =>
-                        (0, s.jsx)(
-                          "span",
-                          {
-                            className: ""
-                              .concat(
-                                [
-                                  "group-hover/korok:text-lime-400",
-                                  "group-hover/korok:text-lime-400",
-                                  "group-hover/korok:text-lime-400",
-                                  "group-hover/korok:text-blue-400",
-                                  "group-hover/korok:text-blue-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-teal-400",
-                                  "group-hover/korok:text-teal-400",
-                                  "group-hover/korok:text-teal-400",
-                                  "group-hover/korok:text-sky-400",
-                                  "group-hover/korok:text-sky-400",
-                                  "group-hover/korok:text-green-400",
-                                  "group-hover/korok:text-green-400",
-                                  "group-hover/korok:text-green-400",
-                                  "group-hover/korok:text-green-400",
-                                  "group-hover/korok:text-green-400",
-                                  "group-hover/korok:text-sky-400",
-                                  "group-hover/korok:text-sky-400",
-                                  "group-hover/korok:text-sky-400",
-                                  "group-hover/korok:text-teal-400",
-                                  "group-hover/korok:text-teal-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-cyan-400",
-                                  "group-hover/korok:text-blue-400",
-                                  "group-hover/korok:text-blue-400",
-                                  "group-hover/korok:text-blue-400",
-                                  "group-hover/korok:text-lime-400",
-                                  "group-hover/korok:text-lime-400",
-                                ][t],
-                                " transition duration-75 group-hover/korok:-translate-y-px "
-                              )
-                              .concat(
-                                [
-                                  "delay-[50ms]",
-                                  "delay-[75ms]",
-                                  "delay-[100ms]",
-                                  "delay-[125ms]",
-                                  "delay-[150ms]",
-                                  "delay-[175ms]",
-                                  "delay-[200ms]",
-                                  "delay-[225ms]",
-                                  "delay-[250ms]",
-                                  "delay-[275ms]",
-                                  "delay-[300ms]",
-                                  "delay-[325ms]",
-                                  "delay-[350ms]",
-                                  "delay-[375ms]",
-                                  "delay-[375ms]",
-                                  "delay-[375ms]",
-                                  "delay-[375ms]",
-                                  "delay-[375ms]",
-                                  "delay-[375ms]",
-                                  "delay-[350ms]",
-                                  "delay-[325ms]",
-                                  "delay-[300ms]",
-                                  "delay-[275ms]",
-                                  "delay-[225ms]",
-                                  "delay-[200ms]",
-                                  "delay-[175ms]",
-                                  "delay-[150ms]",
-                                  "delay-[125ms]",
-                                  "delay-[100ms]",
-                                  "delay-[75ms]",
-                                  "delay-[50ms]",
-                                ][t]
-                              ),
-                            "aria-hidden": "true",
-                            children: " " === e ? "\xa0" : e,
-                          },
-                          t
-                        )
-                      ),
-                  ],
-                }),
-                ".",
-              ],
-            }),
-            (0, s.jsx)("div", {
-              className: "mt-12",
-              children: (0, s.jsx)(m, {
-                title: "View R\xe9sum\xe9",
-                url: "/CK_Resume.html",
-                className: "font-semibold text-slate-200",
-              }),
-            }),
-            (0, s.jsx)("div", {
-              className: "mt-12",
-              children: (0, s.jsx)(m, {
-                title: "View Self Marketing Plan.",
-                url: "/CK_MP.html",
-                className: "font-semibold text-slate-200",
-              }),
-            }),
           ],
         });
       }
@@ -835,69 +701,69 @@
             children: [
               "Thank you for checking out my portfolio!",
               " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              " ",
-              "",
-              " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              " ",
-              "",
-              " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              " ",
-              "",
-              " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              "",
-              " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              "",
-              " ",
-              (0, s.jsx)("a", {
-                href: "",
-                className:
-                  "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
-                target: "_blank",
-                rel: "noreferrer",
-                children: "",
-              }),
-              " ",
-              "",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // " ",
+              // "",
+              // " ",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // " ",
+              // "",
+              // " ",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // " ",
+              // "",
+              // " ",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // "",
+              // " ",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // "",
+              // " ",
+              // (0, s.jsx)("a", {
+              //   href: "",
+              //   className:
+              //     "font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300",
+              //   target: "_blank",
+              //   rel: "noreferrer",
+              //   children: "",
+              // }),
+              // " ",
+              // "",
             ],
           }),
         });
@@ -906,13 +772,13 @@
         let { sections: t } = e;
         return (0, s.jsxs)("header", {
           className:
-            "lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24",
+          "lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24",
           children: [
             (0, s.jsxs)("div", {
               children: [
                 (0, s.jsx)("h1", {
                   className:
-                    "text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl",
+                  "text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl",
                   children: (0, s.jsx)(d(), {
                     href: "/",
                     children: "Chris Kincaid",
@@ -922,12 +788,6 @@
                   className:
                     "mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl",
                   children: "Information Security Specialist",
-                }),
-                (0, s.jsx)("p", {
-                  className: "mt-4 max-w-xs leading-normal",
-                  children:
-                    "I'm a passionate advocate for information security, " +
-                    "engaging in hands-on exploration and rigorous assessment of security software and methodologies.",
                 }),
                 (0, s.jsx)("nav", {
                   className: "nav hidden lg:block",
@@ -965,6 +825,15 @@
                   }),
                 }),
               ],
+            }),
+            (0, s.jsx)("div", {
+              className: "mt-12",
+              children: (0, s.jsx)(m, {
+                target: "_blank",
+                title: "View R\xe9sum\xe9",
+                url: "/CK_Resume.html",
+                className: "font-semibold text-slate-200",
+              }),
             }),
             (0, s.jsx)("ul", {
               className: "ml-1 mt-8 flex items-center",
@@ -1057,10 +926,26 @@
               className: "group/list",
               children: [
                 {
+                  title: "Hackwoods Academy",
+                  link: "https://hackwoods-academy-v001.web.app/",
+                  image: "",
+                  desc: "Hackwoods Academy is an Information Security group I started in 2023. " +
+                  "The group focuses on spreading Information Security awareness and training. " +
+                  "We have regularly scheduled meetings and are open welcoming to anyone. However, we " +
+                  "are focused primaraly on the Ozarks area of Missouri and Arkansas. " +
+                  "I developed the entire website and currently maintain it, as well as creating content for both " +
+                  "online and in person events.",
+                  tech: [
+                    "Leadership Skills",
+                    "Public Speaking",
+                    "Soft Skills",
+                    "Time Management", 
+                    ],
+                },
+                {
                   title: "This Website",
                   link: "",
-                  // image: "/images/projects/halcyon.png",
-                  desc: "You are literally looking at this project right now. " +
+                  desc: "You are looking at this project right now. " +
                   "This website is my first attempt at creating a personal website." +
                   "Through the use of web development tools and scanning the code from other peoples websites, " +
                   "as well as a lot of trial and error, and a bunch of ChatGPT, I was able to create this website.",
@@ -1073,24 +958,6 @@
                     "GitHub Copilot",
                     "Visual Studio Code",
                     "AWS: S3, CloudFront, Route 53, Cert Manager"],
-                },
-                {
-                  title: "Boom Bap Boombox",
-                  link: "https://boombapboombox.com",
-                  image: "",
-                  desc: "Boom Bap Boombox is a fun little project I started to create an online radio station. " +
-                  "The live music stream is from my own personal collection of rare mixtapes and mash-up mixes, " +
-                  "including my own personally created music productions.",
-                  tech: [
-                    "HTML",
-                    "CSS", 
-                    "JavaScript", 
-                    "Audio Production",
-                    "ChatGPT",
-                    "GitHub Copilot",
-                    "Visual Studio Code",
-                    "AWS: S3, CloudFront, Route 53, Cert Manager"],
-                  github: "https://github.com/ChrisKincaid",
                 },
                 {
                   title: "Basic Web Browser",
@@ -1169,15 +1036,6 @@
                               }),
                           ],
                         }),
-                        // (0, s.jsx)(f(), {
-                        //   className:
-                        //     "rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1",
-                        //   // src: t.image,
-                        //   // src: "images/Headshopped.png",
-                        //   // alt: "Headshopped.png",
-                        //   // width: 200,
-                        //   // height: 48,
-                        // }),
                       ],
                     }),
                   },
@@ -1185,19 +1043,9 @@
                 )
               ),
             }),
-            // (0, s.jsx)("div", {
-            //   className: "mt-12",
-            //   children: (0, s.jsx)(m, {
-            //     title: "View Full Project Archive",
-            //     url: "/archive",
-            //     className: "font-semibold text-slate-200",
-            //   }),
-            // }),
           ],
         });
       }
-
-
       var b = a(8425),
         j = a(4910);
       function w() {
@@ -1265,7 +1113,17 @@
               className: "group/list",
               children: [
                 {
-                  title: "Missouri Southern State University - Multiple Degrees",
+                  title: "Western Governors University",
+                  link: "https://www.wgu.edu/",
+                  image: "",
+                  desc: "Currently attending WGU to obtain a " +
+                  "Master's degree in Cybersecurity and Information Assurance. " + 
+                  "Expected graduation date is December 2025.",
+                  tech: [
+                    "Master of Science, Cybersecurity and Information Assurance"],
+                },
+                {
+                  title: "Missouri Southern State University",
                   link: "https://www.mssu.edu/",
                   image: "",
                   desc: "Took classes in Computer Science, Digital Forensics, and Criminal Law. All degrees awarded with honors.",
@@ -1299,16 +1157,28 @@
                     "Threat Detection"],
                 },
                 {
-                  title: "EC-Council - Multiple Courses",
+                  title: "ISC2 - CC – Certified in Cybersecurity",
+                  link: "https://www.isc2.org/certifications/cc",
+                  image: "",
+                  desc: [
+                  ""],
+                  tech: [
+                    "Security Principles",
+                    "Incident Response Concepts",
+                    "Access Controls Concepts", 
+                    "Network Security"]
+                  },
+                {
+                  title: "EC-Council - Multiple Micro-Certifications",
                   link: "https://www.eccouncil.org/",
                   image: "",
                   desc: [
                   ""],
                   tech: [
+                    "Password Attacks and Security",
                     "Malware Analysis Fundamentals",
                     "Network Pentesting", 
-                    "Kali Linux Pentetsing"],
-                  github: "https://github.com/ChrisKincaid",
+                    "Kali Linux Pentetsing"]
                 },
               ]
               .map((t, a) =>
@@ -1424,10 +1294,10 @@
           });
         }, []);
         let t = [
-          { 
-            heading: "About",
-            label: "About me", 
-            component: (0, s.jsx)(l, {}) },
+          // { 
+          //   heading: "About",
+          //   label: "About me", 
+          //   component: (0, s.jsx)(l, {}) },
           {
             heading: "Experience",
             label: "Work experience",
